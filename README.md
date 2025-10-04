@@ -1,9 +1,11 @@
+
 # App Idea AMS-DEVIX
 
 Deskripsyon kout :
 DevisKonstwi se yon aplikasyon mobil ki pèmèt enjenyè sivil prepare rapidman yon devis estimatif pou diferan faz konstriksyon tankou enplatasyon, fouy, monte baz, makadam ak monte blòk. Aplikasyon an ap sèvi ak paramèt (dimansyon, kantite materyo, pri inite) pou kalkile depans total chak faz epi jenere yon rapò.
 
-
+**### App Walk-though**
+<img src="https://github.com/andyjoseph12/AMS-DEVIX/blob/main/AMS%20DEVIX%20(1).gif" width=200> <br>
 ## User Stories
 #### Must Have (Fonksyon esansyèl pou lansman)
 
